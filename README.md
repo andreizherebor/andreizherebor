@@ -2,15 +2,14 @@
 </h1>
 <h2>
 About me:
-
-
+Я начинающий веб разработчик.С базовыми знаниями верстки знаком с 2018 года. В сентябре 2022 было принято решения уйти с головой в программирование для этого была выбрана платформа Яндекс-Практикум специализация Веб-разработчик. В настоящий момент мое обучение на курсе завершено и я нахожусь в поисках работы. Продолжаю самостоятельно углубленное изучение JavaScript и React. 
 
 <h2 >
 My Tech Stack:
 </h2><p align="center">
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
   <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-  <img src="https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions"/>
+  <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
   <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
   <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" alt="Express.js"/>
