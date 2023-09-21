@@ -30,5 +30,5 @@ My Tech Stack:
 ### Contacts
 ☏ RU: +7-913-529-0739
 
-<a href="https://t.me/andreyzh19" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" alt="telegram logo" height="23"></a>  
+<a href="https://t.me/andreyzh19" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" alt="telegram logo" height="23"></a>| 
 <a href="mailto:andreizherebor@yandex.ru" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="gmail logo" height="23"></a> 
